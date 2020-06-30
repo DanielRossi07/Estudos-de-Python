@@ -1,4 +1,4 @@
-#Verifica se a frase é um Polídromo ou não
+#Verifica se a frase é um Palídromo ou não
 frase = str(input("Digite uma frase: ")).strip().upper()
 palavras = frase.split()
 junto = "".join(palavras)

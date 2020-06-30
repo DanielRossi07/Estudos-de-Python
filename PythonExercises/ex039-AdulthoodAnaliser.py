@@ -1,4 +1,5 @@
 from datetime import date
+#Improvements to be done
 #dia = input("Qual o dia do seu nascimento? ")
 #mes = input("Qual o mês do seu nascimento? (Em forma numérica, por favor!) ")
 ano = int(input("Qual o ano do seu nascimento? "))
