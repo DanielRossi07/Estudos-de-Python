@@ -1,2 +1,2 @@
-# Estudos de Python
- Exercícios de Python
+# Python Studies
+ Python Exercises
