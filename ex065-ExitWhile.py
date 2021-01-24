@@ -17,6 +17,6 @@ while resp == "S" or resp == "N":
        elif menornum > numero:
            menornum = numero
     elif resp == "N":
-        print("Você digitou {}, o total foi {} e o número médio foi {}.".format(contador, numeros, media))
+        print("Você digitou {} números, o total foi {} e o número médio foi {}.".format(contador, numeros, media))
         print("E dentre os {} números o menor foi {} e o maior foi {}.".format(contador, menornum, maiornum))
         exit()

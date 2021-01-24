@@ -13,7 +13,7 @@ numeros = int(input("Digite quantos números quiser e insira [999] quando quiser
 contador = 1
 somador = numeros
 
-while numeros != 999:
+while True:
     numeros = int(input("Digite outro valor: "))
     if numeros == 999:
         break
